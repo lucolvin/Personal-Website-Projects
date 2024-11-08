@@ -11,7 +11,7 @@ description: "Created a Minecraft plugin while learning Java. Changes the slime 
 link: "https://github.com/lucolvin/Launchpads",
 
 img: "https://github.com/lucolvin/public-pics-hosting/blob/main/Old_Site.png?raw=true",
-description: "This is my old website. It was my first try at creating a modern looking website that included a contact form.It was made with HTML, CSS, and Javascript.",
+description: "This is previous website. My first try at creating a modern looking website, it included a contact form and created with HTML, CSS, and Javascript.",
 link: "https://github.com/lucolvin/Personal-Website",
 
 img: "https://github.com/lucolvin/public-pics-hosting/blob/main/site_snippet.png?raw=true",
