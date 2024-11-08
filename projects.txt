@@ -1,0 +1,23 @@
+img: "https://github.com/lucolvin/public-pics-hosting/blob/main/images/project.jpg?raw=true",
+description: "One of my first projects, I created Tic Tac Toe in HTML, CSS, and Javascript.",
+link: "https://github.com/lucolvin/Tic-Tac-Toe",
+
+img: "https://github.com/lucolvin/public-pics-hosting/blob/main/final_proj_2023.png?raw=true",
+description: "Collaborated with Devin Kagak on the creation of a text based adventure game in python as the final project for COMP120 at Olivet Nazarene University.",
+link: "https://github.com/lucolvin/final_proj_fa23",
+
+img: "https://github.com/lucolvin/public-pics-hosting/blob/main/images/Launchpads.png?raw=true",
+description: "Created a Minecraft plugin while learning Java. Changes the slime block into a launchpad and integrates a config.yml file to allow user to change upward and forward momentum. It is implemented on https://www.mangomc.net/",
+link: "https://github.com/lucolvin/Launchpads",
+
+img: "https://github.com/lucolvin/public-pics-hosting/blob/main/Old_Site.png?raw=true",
+description: "This is my old website. It was my first try at creating a modern looking website that included a contact form.It was made with HTML, CSS, and Javascript.",
+link: "https://github.com/lucolvin/Personal-Website",
+
+img: "https://github.com/lucolvin/public-pics-hosting/blob/main/site_snippet.png?raw=true",
+description: "Created this very website. This was my first time using React and the Context API. It was made with HTML, CSS, and React.",
+link: "https://www.lukecolvin.me",
+
+img: "https://github.com/lucolvin/public-pics-hosting/blob/main/ccso.olivet.edu_alt.png?raw=true",
+description: "Created the new website for the Center for Cybersecurity Outreach at Olivet Nazarene University. Using Wordpress, HTML, and CSS.",
+link: "https://ccso.olivet.edu/",
