@@ -22,31 +22,18 @@ img: "https://github.com/lucolvin/public-pics-hosting/blob/main/ccso.olivet.edu_
 description: "Created the new website for the Center for Cybersecurity Outreach at Olivet Nazarene University. Using Wordpress, HTML, and CSS.",
 link: "https://ccso.olivet.edu/",
 
-img: "https://github.com/lucolvin/public-pics-hosting/blob/main/ccso.olivet.edu_alt.png?raw=true"
-description: "Created the new website for the Center for Cybersecurity Outreach at Olivet Nazarene University. Using Wordpress, HTML, and CSS."
-link: "https://ccso.olivet.edu/"
+img: "https://github.com/lucolvin/public-pics-hosting/blob/main/ccso.olivet.edu_alt.png?raw=true",
+description: "Created the new website for the Center for Cybersecurity Outreach at Olivet Nazarene University. Using Wordpress, HTML, and CSS.",
+link: "https://ccso.olivet.edu/",
 
-img: "https://github.com/lucolvin/public-pics-hosting/blob/main/ccso.olivet.edu_alt.png?raw=true"
-description: "Created the new website for the Center for Cybersecurity Outreach at Olivet Nazarene University. Using Wordpress, HTML, and CSS."
-link: "https://ccso.olivet.edu/"
+img: "https://github.com/lucolvin/public-pics-hosting/blob/main/ccso.olivet.edu_alt.png?raw=true",
+description: "Created the new website for the Center for Cybersecurity Outreach at Olivet Nazarene University. Using Wordpress, HTML, and CSS.",
+link: "https://ccso.olivet.edu/",
 
+img: "https://github.com/lucolvin/public-pics-hosting/blob/main/ccso.olivet.edu_alt.png?raw=true",
+description: "Created the new website for the Center for Cybersecurity Outreach at Olivet Nazarene University. Using Wordpress, HTML, and CSS.",
+link: "https://ccso.olivet.edu/",
 
-img: "https://github.com/lucolvin/public-pics-hosting/blob/main/ccso.olivet.edu_alt.png?raw=true"
-description: "Created the new website for the Center for Cybersecurity Outreach at Olivet Nazarene University. Using Wordpress, HTML, and CSS."
-link: "https://ccso.olivet.edu/"
-
-
-img: "https://github.com/lucolvin/public-pics-hosting/blob/main/ccso.olivet.edu_alt.png?raw=true"
-description: "Created the new website for the Center for Cybersecurity Outreach at Olivet Nazarene University. Using Wordpress, HTML, and CSS."
-link: "https://ccso.olivet.edu/"
-
-
-img: "https://github.com/lucolvin/public-pics-hosting/blob/main/ccso.olivet.edu_alt.png?raw=true"
-description: "Created the new website for the Center for Cybersecurity Outreach at Olivet Nazarene University. Using Wordpress, HTML, and CSS."
-link: "https://ccso.olivet.edu/"
-
-
-img: "https://github.com/lucolvin/public-pics-hosting/blob/main/ccso.olivet.edu_alt.png?raw=true"
-description: "Created the new website for the Center for Cybersecurity Outreach at Olivet Nazarene University. Using Wordpress, HTML, and CSS."
-link: "https://ccso.olivet.edu/"
-
+img: "https://github.com/lucolvin/public-pics-hosting/blob/main/ccso.olivet.edu_alt.png?raw=true",
+description: "Created the new website for the Center for Cybersecurity Outreach at Olivet Nazarene University. Using Wordpress, HTML, and CSS.",
+link: "https://ccso.olivet.edu/",
