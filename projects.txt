@@ -1,5 +1,5 @@
 img: "https://github.com/lucolvin/public-pics-hosting/blob/main/images/project.jpg?raw=true",
-description: "One of my first projects, I created Tic Tac Toe in HTML, CSS, and Javascript.",
+description: "**Bleep Blorp** One of my first projects, I created Tic Tac Toe in HTML, CSS, and Javascript.",
 link: "https://github.com/lucolvin/Tic-Tac-Toe",
 
 img: "https://github.com/lucolvin/public-pics-hosting/blob/main/final_proj_2023.png?raw=true",
