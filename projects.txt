@@ -3,7 +3,7 @@ description: "Created Tic-Tac-Toe in HTML, CSS, and Javascript."
 link: "https://github.com/lucolvin/Tic-Tac-Toe"
 
 img: "https://utfs.io/f/LF1QrFGZgDsbEig1ELxRJ0vid7gAKoVLqxMf8u5lF3yhjbmP"
-description: "Collaborated with Devin Kagak on the creation of a text based adventure game in python as the final project for COMP120 at Olivet Nazarene University."
+description: "Partnered with Devin Kagak to create a text based adventure game in python as the final project for COMP120 at Olivet Nazarene University."
 link: "https://github.com/lucolvin/final_proj_fa23"
 
 img: "https://utfs.io/f/LF1QrFGZgDsbu6uDorYlNpCI5gFRMcmKWTez9dVbtAELUuQX"
